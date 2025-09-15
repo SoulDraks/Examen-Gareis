@@ -1,0 +1,61 @@
+COLORES UTILIZADOS 
+===================
+
+HEADER:
+-------
+• #0f172a  - Fondo principal del header
+• #1e293b  - Gradiente del fondo header  
+• #334155  - Borde inferior del header
+• #ffffff  - Texto principal
+• #fbbf24  - Título "POWER RANGERS STORE"
+• #cbd5e1  - Enlaces de navegación
+• #60a5fa  - Hover enlace "Inicio"
+• #0ea5e9  - Hover enlace "Productos"
+• #f472b6  - Hover enlace "Contacto"
+
+PÁGINA PRINCIPAL:
+-----------------
+• #f8fafc  - Fondo gradiente inicio
+• #e2e8f0  - Fondo gradiente final
+• #dc2626  - Gradiente título "¡Es hora de morfear!" inicio
+• #2563eb  - Gradiente título medio
+• #16a34a  - Gradiente título final
+• #475569  - Texto descriptivo
+• #1e293b  - Título sección final
+• #ffffff  - Fondo tarjeta  (70% opacidad)
+• #10b981  - Indicador "Envío gratis"
+• #3b82f6  - Indicador "Garantía"
+• #ef4444  - Indicador "Productos oficiales"
+
+TARJETAS DE PRODUCTOS:
+----------------------
+• #ffffff  - Fondo tarjetas (80% opacidad)
+• #1e293b  - Títulos de productos
+• #475569  - Descripciones de productos
+• #374151  - Precio gradiente inicio
+• #111827  - Precio gradiente final y botón
+• #1f2937  - Botón hover
+• #000000  - Overlay imágenes (10% opacidad)
+
+GRADIENTES PRODUCTOS:
+--------------------
+• #ef4444  a #b91c1c  - Power Rojo 
+• #3b82f6  a #1d4ed8  - Power Azul   
+• #ec4899  a #be185d  - Power Rosa
+• #eab308  a #a16207  - Power Amarillo
+• #22c55e  a #15803d  - Power Verde
+
+FOOTER:
+-------
+• #0f172a  - Fondo principal
+• #ffffff  - Título principal
+• #fde047  - Emoji rayo
+• #fef08a  - Títulos de sección
+• #e2e8f0  - Texto descriptivo y contacto
+• #60a5fa  - Hover enlace Facebook
+• #0ea5e9  - Hover enlace Twitter
+• #f472b6  - Hover enlace Instagram
+• #334155  - Borde separador
+• #94a3b8  - Copyright
+
+

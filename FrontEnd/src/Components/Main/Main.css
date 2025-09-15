@@ -1,0 +1,55 @@
+.Textito {
+    text-align: center;
+    width: 700px;
+    position: relative;
+    left: 25%;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.Textito h1 {
+    font-size: 55px;
+    color: #db25eb;
+}
+
+.Textito p {
+    margin-top: 20px;
+    font-size: 20px;
+    color: #475569;
+    font-weight: 500;
+}
+
+.Tarjetas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-left: 15px;
+    gap: 20px;
+}
+
+.TextoFinal {
+    width: 98%;
+    height: 225px;
+    margin-left: 10px;
+    text-align: center;
+    box-shadow: #0000003b 10px 10px 10px;
+    color: #475569;
+    border-radius: 20px;
+}
+
+.TextoFinal h1 {
+    position: relative;
+    top: 50px;
+    color: #1e293b;
+}
+
+.TextoFinal h2 {
+    margin-top: 70px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.Novedades {
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
